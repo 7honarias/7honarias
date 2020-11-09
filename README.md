@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently student...
-- 🌱 I’m currently learning Pyton, c, html, js, css, java.
+- 🌱 I’m currently learning Python, c, html, js, css, java.
 - 👯 I’m looking to collaborate on Delivery Pidelo.
 - 📫 How to reach me: ...
-* :star::blush: Fotos, tips y memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
-* :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/jhon_e_arias)** :v:
-* :star::blush: Algo que no uso x2 **[Twitter](https://twitter.com/jhon_e_arias)** :v:
+* :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
+* :star::blush: memes and some of my lifes **[Facebook](https://www.facebook.com/jhonedison.ariasesparza)** :v:
+* :star::blush: come into my mind **[Twitter](https://twitter.com/jhon_e_arias)** :v:
 
 ## ⚡ Technologies
 
