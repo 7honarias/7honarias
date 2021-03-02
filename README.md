@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Python, java.
-- 👯 I’m looking to collaborate on Delivery Pidelo.
+- 👯 I am collaborate on Delivery Pidelo.
 - 📫 How to reach me: ...
 * :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
 * :star::blush: memes and some of my lifes **[Facebook](https://www.facebook.com/jhonedison.ariasesparza)** :v:
