@@ -1,7 +1,6 @@
 ### Hi there I am Jhon Arias👋
 
 
-- 🔭 I’m currently student...
 - 🌱 I’m currently learning Python, java.
 - 👯 I’m looking to collaborate on Delivery Pidelo.
 - 📫 How to reach me: ...
