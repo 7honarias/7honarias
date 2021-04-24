@@ -1,7 +1,6 @@
 ### Hi there I am Jhon Arias👋
 
 
-- 🌱 I’m currently learning Python, java.
 - 👯 I am collaborate on Delivery Pidelo.
 - 📫 How to reach me: ...
 * :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
