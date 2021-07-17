@@ -1,7 +1,7 @@
 ### Hi there I am Jhon Arias👋
 
 
-- 👯 I am collaborate on Delivery Pidelo.
+- 👯 I am back end developer at Mercado Libre
 - 📫 How to reach me: ...
 * :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
 * :star::blush: memes and some of my lifes **[Facebook](https://www.facebook.com/jhonedison.ariasesparza)** :v:
